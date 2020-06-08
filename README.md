@@ -22,6 +22,5 @@ Analytics, Machine Learning, Python, Modelagem.
 
 **Projetos**
 
-* Descrição do projeto: link do Colab minimizado com o https://bitly.com/ 
-
+* Análise dos Dados do Airbnb da cidade de TOSCANA, ITÁLIA: https://bit.ly/30oueUb 
 ---
