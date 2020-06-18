@@ -22,5 +22,6 @@ Analytics, Machine Learning, Python, Modelagem.
 
 **Projetos**
 
-* Análise dos Dados do Airbnb da cidade de TOSCANA, ITÁLIA: https://bit.ly/2Nf3UnX 
+* Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: https://bit.ly/2Nf3UnX 
+* Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3ftaFyq
 ---
