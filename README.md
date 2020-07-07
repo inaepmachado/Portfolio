@@ -24,4 +24,5 @@ Analytics, Machine Learning, Python, Modelagem.
 
 * Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: https://bit.ly/2AvbSGw
 * Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3hHBWPk
+* Análise exploratória do COVID-19 no Brasil e no Mundo:
 ---
