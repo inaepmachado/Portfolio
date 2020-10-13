@@ -27,8 +27,8 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 **Projetos**
 
-* Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: https://bit.ly/3nJDITe
-* Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3jVn6Wm
-* Análise exploratória do COVID-19 no Brasil e no Mundo: https://bit.ly/3jVFMW2
-* Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/34QYszY
+* Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: 
+* Análise da Violência no Estado do Rio de Janeiro: 
+* Análise exploratória do COVID-19 no Brasil e no Mundo: 
+* Modelo de Regressão para detecção de fraude em cartão de crédito:
 ---
