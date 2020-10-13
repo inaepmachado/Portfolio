@@ -32,6 +32,4 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 * Análise exploratória do COVID-19 no Brasil e no Mundo: https://bit.ly/3iSur7S
 * Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/3jQ1daS
 
-Observação: todos os projetos irei compartilhar via dropbox para que possam ver por completo, incluindo imagens, no github está com limitação de apresentar as imagens.
-
 ---
