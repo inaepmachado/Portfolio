@@ -12,16 +12,20 @@ Minhas credenciais incluem um Mestrado em administração financeira com foco na
 
 Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSINAR**, atividade que acabo perdendo noção do tempo em qualquer situação. Em função disso, resolvi me dedicar a divulgar essas minhas paixões, com o objetivo de disponibilizar os projetos e passar uma visão de etapa a etapa do aprendizado de Data Science. 
 
+Estou iniciando esse projeto onde todo estudo que fizer irei compartilhar por aqui e gostaria muito de sugestões, reclamações, dúvidas etc.
 
-**Experiências** 
-
-Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
+Por favor, entre em contato direto comigo, abaixo deixo meus contatos para toda troca de toda informação.
 
 
 **Links**
 
 * [LinkedIn](https://www.linkedin.com/in/inaepmachado)
 * [Currículo Lattes](http://lattes.cnpq.br/2150291235267988)
+
+
+**Experiências** 
+
+Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 
 **Projetos**
@@ -38,7 +42,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 **4. Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/3jQ1daS**
 
-   Projeto onde estou apresentando o modelo de regressão logística, com todas as etapas que envolve a modelagem e recomendações de artigos e leitura. Faço uma pequena instrodução ao `scikit-learn`, cujo aprofundamento irá encontrar nos artigos indicados.
+   Projeto onde estou apresentando o modelo de regressão logística, com todas as etapas que envolvem a modelagem e recomendações de artigos para leitura. Faço uma pequena introdução ao `scikit-learn`, cujo aprofundamento irá encontrar nos artigos indicados.
 
 
 
