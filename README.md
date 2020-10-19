@@ -17,7 +17,7 @@ Estou iniciando esse projeto onde todo estudo que fizer irei compartilhar por aq
 Por favor, entre em contato direto comigo, abaixo deixo meus contatos para toda troca de toda informação.
 
 
-**Links**
+##Links##
 
 * [LinkedIn](https://www.linkedin.com/in/inaepmachado)
 * [Currículo Lattes](http://lattes.cnpq.br/2150291235267988)
