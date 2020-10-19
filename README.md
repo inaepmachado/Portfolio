@@ -41,4 +41,5 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
    Projeto onde estou apresentando o modelo de regressão logística, com todas as etapas que envolve a modelagem e recomendações de artigos e leitura. Faço uma pequena instrodução ao `scikit-learn`, cujo aprofundamento irá encontrar nos artigos indicados.
 
 
+
 ---
