@@ -10,6 +10,9 @@
 Estatística com experiência em analytics e modelagem, combino habilidades analíticas, capacidade de trabalhar em equipe e de auxiliar as áreas de negócio na tomada de decisão através de dados.
 Minhas credenciais incluem um Mestrado em administração financeira com foco na gestão público-privado pelo INSPER, uma das duas instituições da AACSB, principal associação certificadora de escolas de negócios no mundo, e sou Bacharel em Estatística pela Universidade de São Paulo.
 
+Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSINAR**. que é onde acabo perdendo qualquer noção do tempo. Em função disso, resolvi me dedicar a divulgar essas minhas paixões, com o objetivo de disponibilizar os projetos e passar uma visão de etapa a etapa do aprendizado de Data Science. 
+
+
 **Experiências** 
 
 Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
@@ -23,9 +26,9 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 **Projetos**
 
-* Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: https://bit.ly/3nPbGWG
-* Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3k13bWc
-* Análise exploratória do COVID-19 no Brasil e no Mundo: https://bit.ly/3iSur7S
-* Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/3jQ1daS
+*1) Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: https://bit.ly/3nPbGWG
+*2) Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3k13bWc
+*3) Análise exploratória do COVID-19 no Brasil e no Mundo: https://bit.ly/3iSur7S
+*4) Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/3jQ1daS
 
 ---
