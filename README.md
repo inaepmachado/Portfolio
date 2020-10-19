@@ -10,7 +10,7 @@
 Estatística com experiência em analytics e modelagem, combino habilidades analíticas, capacidade de trabalhar em equipe e de auxiliar as áreas de negócio na tomada de decisão através de dados.
 Minhas credenciais incluem um Mestrado em administração financeira com foco na gestão público-privado pelo INSPER, uma das duas instituições da AACSB, principal associação certificadora de escolas de negócios no mundo, e sou Bacharel em Estatística pela Universidade de São Paulo.
 
-Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSINAR**. que é onde acabo perdendo qualquer noção do tempo. Em função disso, resolvi me dedicar a divulgar essas minhas paixões, com o objetivo de disponibilizar os projetos e passar uma visão de etapa a etapa do aprendizado de Data Science. 
+Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSINAR**, atividade que acabo perdendo qualquer noção do tempo em qualquer situação. Em função disso, resolvi me dedicar a divulgar essas minhas paixões, com o objetivo de disponibilizar os projetos e passar uma visão de etapa a etapa do aprendizado de Data Science. 
 
 
 **Experiências** 
