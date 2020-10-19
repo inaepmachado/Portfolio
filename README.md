@@ -14,13 +14,14 @@ Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSI
 
 Estou iniciando esse projeto onde todo estudo que fizer irei compartilhar por aqui e gostaria muito de sugestões, reclamações, dúvidas etc.
 
-Por favor, entre em contato direto comigo, abaixo deixo meus contatos para toda troca de toda informação.
+Por favor, entre em contato direto comigo, abaixo deixo meus contatos para toda troca de informação.
 
 
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/inaepmachado)
 * [Currículo Lattes](http://lattes.cnpq.br/2150291235267988)
+* [Email](inae.pmachado@gmail.com)
 
 
 ## Experiências
