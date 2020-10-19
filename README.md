@@ -28,7 +28,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 **1.** Análise dos dados do Airbnb da região de TOSCANA, ITÁLIA: https://bit.ly/3nPbGWG
 
-  Primeiro projeto, somente com uma visão dos comandos básicos de leitura de arquivo e análises básicas descritivas das bases, distribuição dos dados, identificação de outliers e valores ausentes, boxplot, histograma. O principal objetivo é desmistificar o uso da ferramenta, já demonstrando logo de início uma análise simples porém efetiva e que pode trazer muitas informações úteis para o dia a dia do negócio.
+    Primeiro projeto, somente com uma visão dos comandos básicos de leitura de arquivo e análises básicas descritivas das bases, distribuição dos dados, identificação de outliers e valores ausentes, boxplot, histograma. O principal objetivo é desmistificar o uso da ferramenta, já demonstrando logo de início uma análise simples porém efetiva e que pode trazer muitas informações úteis para o dia a dia do negócio.
 
 **2.** Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3k13bWc
 
@@ -38,7 +38,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 **4.** Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/3jQ1daS
 
-Projeto onde estou apresentando o modelo de regressão logística, com todas as etapas que envolve a modelagem e recomendações de artigos e leitura.
+    Projeto onde estou apresentando o modelo de regressão logística, com todas as etapas que envolve a modelagem e recomendações de artigos e leitura. Faço uma pequena instrodução ao `scikit-learn`, cujo aprofundamento irá encontrar nos artigos indicados.
 
 
 ---
