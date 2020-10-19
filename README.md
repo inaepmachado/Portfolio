@@ -21,7 +21,7 @@ Por favor, entre em contato direto comigo, abaixo deixo meus contatos para toda 
 
 * [LinkedIn](https://www.linkedin.com/in/inaepmachado)
 * [Currículo Lattes](http://lattes.cnpq.br/2150291235267988)
-* [Email](inae.pmachado@gmail.com)
+* (inae.pmachado@gmail.com)
 
 
 ## Experiências
