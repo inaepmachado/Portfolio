@@ -31,6 +31,8 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 ## Projetos
 
+  Todos os projetos foram desenvolvidos no Colab, e com disponibilização de todos os dados utilizados também aqui no meu GitHub, para que todos possam praticar e melhorar todo estudo que tenho desenvolvido.
+
 **1. Análise dos dados do Airbnb da região de Toscana, Itália: https://bit.ly/3nPbGWG**
 
    Primeiro projeto, somente com uma visão dos comandos básicos de leitura de arquivo e análises básicas descritivas das bases, distribuição dos dados, identificação de outliers e valores ausentes, boxplot, histograma. O principal objetivo é desmistificar o uso da ferramenta, já demonstrando logo de início uma análise simples porém efetiva e que pode trazer muitas informações úteis para o dia a dia do negócio.
