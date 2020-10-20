@@ -43,6 +43,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 **3. Análise exploratória do COVID-19 no Brasil e no Mundo: https://bit.ly/3iSur7S**
 
+  Neste projeto fiz um trabalho visando aumentar meu conhecimento em visualização do dados com gráficos, tendo como uma grande referência o livro [Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681), um guia que merce ser lido com muita calma e anotações, para que possa ser usado como um guia mesmo a cada necessidade.
 
 **4. Modelo de Regressão para detecção de fraude em cartão de crédito:https://bit.ly/3jQ1daS**
 
