@@ -36,6 +36,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
    Primeiro projeto, somente com uma visão dos comandos básicos de leitura de arquivo e análises básicas descritivas das bases, distribuição dos dados, identificação de outliers e valores ausentes, boxplot, histograma. O principal objetivo é desmistificar o uso da ferramenta, já demonstrando logo de início uma análise simples porém efetiva e que pode trazer muitas informações úteis para o dia a dia do negócio.
 
 **2. Análise da Violência no Estado do Rio de Janeiro: https://bit.ly/3k13bWc**
+
   Projeto que fiz uma análise ainda descritiva da violência no Rio de Janeiro, apresentando um detalhamamento maior e uma visão ao longo do tempo com a utilização de uma das principais bibliotecas do python, o Pandas. Como recomendação, coloco alguns links de como é possível se aprofundar nessa biblioteca.
 
 **3. Análise exploratória do COVID-19 no Brasil e no Mundo: https://bit.ly/3iSur7S**
