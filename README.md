@@ -31,7 +31,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
 ## Projetos
 
-  Todos os projetos foram desenvolvidos no [Colab](https://colab.research.google.com/notebooks/intro.ipynb), e com disponibilização de todos os dados utilizados também aqui no meu GitHub, para que todos possam praticar e melhorar todo estudo que tenho desenvolvido.
+  Todos os projetos foram desenvolvidos no [Colab](https://colab.research.google.com/notebooks/intro.ipynb), e com disponibilização de todos os [dados](https://github.com/inaepmachado/DataSet) utilizados também aqui no meu GitHub, para que todos possam praticar e melhorar todo estudo que tenho desenvolvido.
 
 **1. Análise dos dados do Airbnb da região de Toscana, Itália: https://bit.ly/3nPbGWG**
 
