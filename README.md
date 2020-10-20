@@ -14,10 +14,10 @@ Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSI
 
 Estou iniciando esse projeto onde todo estudo que fizer irei compartilhar por aqui e gostaria muito de sugestões, reclamações, dúvidas etc.
 
-Por favor, entre em contato direto comigo, abaixo deixo meus contatos para toda troca de informação.
+Por favor, entrem em contato direto comigo pelos canais abaixo para toda troca de informação.
 
 
-## Links
+## Canais de contato
 
 * inae.pmachado@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/inaepmachado)
