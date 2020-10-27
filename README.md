@@ -5,7 +5,7 @@
 </p>
 
 # Inaê Piconi Machado
-<sub>*Senior Statistician* at Itau-Unibanco</sub>
+<sub>*Statistics Specialist* at Itau BBA</sub>
 
 Estatística com experiência em analytics e modelagem, combino habilidades analíticas, capacidade de trabalhar em equipe e de auxiliar as áreas de negócio na tomada de decisão através de dados.
 Minhas credenciais incluem um Mestrado em administração financeira com foco na gestão público-privado pelo INSPER, uma das duas instituições da AACSB, principal associação certificadora de escolas de negócios no mundo, e sou Bacharel em Estatística pela Universidade de São Paulo.
