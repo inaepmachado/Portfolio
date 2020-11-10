@@ -49,7 +49,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
    Projeto onde estou apresentando o modelo de regressão logística, com todas as etapas que envolvem a modelagem e recomendações de artigos para leitura. Faço uma pequena introdução ao `scikit-learn`, cujo aprofundamento irá encontrar nos artigos indicados. E também passo 6 indicações de estudo para entendimento de modelos de regressão e modelos de classificação.
    
-**5. Churn Prediction para uma empresa de Telecomunicações: https://bit.ly/38r9gYL**
+**5. Churn Prediction para uma empresa de Telecomunicações: https://bit.ly/3jQ1daS**
 
   Projeto onde apresento um modelo para prever o churn de uma empresa de telecomunicação. Dentre as etapas de modelagem, primeiro realizo uma validação cruzada para identificar qual melhor modelo devemos partir, dentre eles: Random Forest, Decision Tree, SVC, Regressão Logística, XGB e LGBM. Depois de escolhido o modelo de partida, no caso foi o XGB (extreme gradiente boosting), partimos para as etapas de otimização dos hiperparâmetros. Além disso, como de costume, ao final do projeto tem algumas referências para aprofundamento do estudo.
   
