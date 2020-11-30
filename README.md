@@ -55,7 +55,7 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
   
 **6. Análise de Risco de Crédito: https://bit.ly/2Jp5bdo**
 
-  Projeto onde apresento um modelo para prever default em cartão de crédito seguindo dois métodos, com os dados originais desbalanceados e, sem seguida, apresento a solução com os dados balanceados. O mais interessante desse caso foi justamente os valores tão distintos da acurária e da matriz de confusão, mostrando a necessidade de fazermos a construção do modelo desbalanceado, não confiando muito na acurária para os dados desbalanceados, mesmo não sendo um desbalanceamento abaixo de 1%. Ao longo do projeto vou apresentando os motivos de avançar na mogelagem, chegando ao valor final que queríamos, um modelo mais ajustado à natureza do problema.
+  Projeto onde apresento um modelo para prever default em cartão de crédito seguindo dois métodos, com os dados originais desbalanceados e, em seguida, apresento a solução com os dados balanceados. O mais interessante desse caso foi justamente os valores tão distintos da acurácia e da matriz de confusão, mostrando a necessidade de fazermos a construção do modelo balanceado, não confiando muito na acurácia para os dados desbalanceados, mesmo não sendo um desbalanceamento abaixo de 1%. Ao longo do projeto vou apresentando os motivos de avançar na modelagem, chegando ao valor final que queríamos, um modelo mais ajustado à natureza do problema.
   
 **7. Deploy de uma aplicação: em construção**
 
