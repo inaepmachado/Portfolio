@@ -53,8 +53,10 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
   Projeto onde apresento um modelo para prever o churn de uma empresa de telecomunicação. Dentre as etapas de modelagem, primeiro realizo uma validação cruzada para identificar qual melhor modelo devemos partir, dentre eles: Random Forest, Decision Tree, SVC, Regressão Logística, XGB e LGBM. Depois de escolhido o modelo de partida, no caso foi o XGB (extreme gradiente boosting), partimos para as etapas de otimização dos hiperparâmetros. Além disso, como de costume, ao final do projeto tem algumas referências para aprofundamento do estudo.
   
-**6. Análise de Risco de Crédito: em construção**
+**6. Análise de Risco de Crédito: https://bit.ly/2Jp5bdo**
 
+  Projeto onde apresento um modelo para prever default em cartão de crédito seguindo dois métodos, com os dados originais desbalanceados e, sem seguida, apresento a solução com os dados balanceados. O mais interessante desse caso foi justamente os valores tão distintos da acurária e da matriz de confusão, mostrando a necessidade de fazermos a construção do modelo desbalanceado, não confiando muito na acurária para os dados desbalanceados, mesmo não sendo um desbalanceamento abaixo de 1%. Ao longo do projeto vou apresentando os motivos de avançar na mogelagem, chegando ao valor final que queríamos, um modelo mais ajustado à natureza do problema.
+  
 **7. Deploy de uma aplicação: em construção**
 
 **8. Classificador de fake news: em construção**
