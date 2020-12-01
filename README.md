@@ -57,8 +57,6 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
   Projeto onde apresento um modelo para prever default em cartão de crédito seguindo dois métodos, com os dados originais desbalanceados e, em seguida, apresento a solução com os dados balanceados. O mais interessante desse caso foi justamente os valores tão distintos da acurácia e da matriz de confusão, mostrando a necessidade de fazermos a construção do modelo balanceado, não confiando na acurácia para os dados desbalanceados, mesmo não sendo um desbalanceamento abaixo de 1%. Ao longo do projeto vou apresentando os motivos de avançar na modelagem, chegando ao resultado final que queríamos, um modelo mais ajustado à natureza do problema.
   
-**7. Deploy de uma aplicação: em construção**
-
-**8. Classificador de fake news: em construção**
+**7. Classificador de fake news: em construção**
 
 ---
