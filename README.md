@@ -57,6 +57,14 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
 
   Projeto onde apresento um modelo para prever default em cartão de crédito seguindo dois métodos, com os dados originais desbalanceados e, em seguida, apresento a solução com os dados balanceados. O mais interessante desse caso foi justamente os valores tão distintos da acurácia e da matriz de confusão, mostrando a necessidade de fazermos a construção do modelo balanceado, não confiando na acurácia para os dados desbalanceados, mesmo não sendo um desbalanceamento abaixo de 1%. Ao longo do projeto vou apresentando os motivos de avançar na modelagem, chegando ao resultado final que queríamos, um modelo mais ajustado à natureza do problema.
   
-**7. Classificador de fake news: em construção**
+**7. Projeto completo de Series Temporais**
+
+  Projeto onde apresento em três partes uma visão resumida de Séries Temporais, com teoria e prática dos principais pontos. Séries Temporais é um dos temas mais complexos em Estatística e um simples projeto é incapaz de dar essa dimensão, nesse projeto quis somente dar uma introdução das principais partes envolvidas em Time Series.
+  
+  Ele está dividido em três partes, com os links abaixo:
+  
+  Parte 1: https://bit.ly/3u6e2Do
+  Parte 2: https://bit.ly/3qvzaAL
+  Parte 3: https://bit.ly/2ZoEXw7
 
 ---
