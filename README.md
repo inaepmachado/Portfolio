@@ -63,8 +63,10 @@ Analytics, Modelagem, Machine Learning, Python, SAS, SQL, Hive/Hadoop.
   
   Ele está dividido em três partes, com os links abaixo:
   
-  *Parte 1: https://bit.ly/3u6e2Do
-  *Parte 2: https://bit.ly/3qvzaAL
-  *Parte 3: https://bit.ly/2ZoEXw7
+  - Parte 1: https://bit.ly/3u6e2Do
+  
+  - Parte 2: https://bit.ly/3qvzaAL
+  
+  - Parte 3: https://bit.ly/2ZoEXw7
 
 ---
