@@ -20,7 +20,6 @@ Estou iniciando esse projeto, onde todo estudo que fizer irei compartilhar por a
 
 * [Email](inae.pmachado@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/inaepmachado)
-* [Currículo Lattes](http://lattes.cnpq.br/2150291235267988)
 
 
 ## Experiências
