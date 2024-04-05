@@ -7,14 +7,13 @@
 # Inaê Piconi Machado
 <sub>*Statistics Specialist* at Itau Unibanco</sub>
 
-Estatística com experiência em analytics e modelagem, combino habilidades analíticas, capacidade de trabalhar em equipe e de auxiliar as áreas de negócio na tomada de decisão através de dados.
-Minhas credenciais incluem um Mestrado em administração financeira com foco na gestão público-privado pelo INSPER, uma das duas instituições da AACSB, principal associação certificadora de escolas de negócios no mundo, e sou Bacharel em Estatística pela Universidade de São Paulo.
+Estatística com experiência em analytics e modelagem, combino habilidades analíticas, capacidade de trabalhar em equipe e de impactar as áreas de negócio na tomada de decisão através de dados.
 
-Minhas maiores paixões são **ESTUDAR**, algo que faço continuamente, e **ENSINAR**, atividade que acabo perdendo noção do tempo em qualquer situação. Em função disso, resolvi me dedicar a divulgar essas minhas paixões, com o objetivo de disponibilizar os projetos e passar uma visão de etapa a etapa do aprendizado de Data Science. 
+Minhas credenciais incluem um `Mestrado` em administração financeira com foco na gestão público-privado pelo INSPER, uma das duas instituições da AACSB, principal associação certificadora de escolas de negócios no mundo, um `MBA CEAG` pela EAESP-FGV, primeiro programa de MBA do Brasil acreditado pela AMBA, e sou Bacharel em `Estatística` pela UNIVERSIDADE DE SÃO PAULO (USP).
 
-Estou iniciando esse projeto, onde todo estudo que fizer irei compartilhar por aqui e gostaria muito de sugestões, reclamações, dúvidas etc.
+Minhas paixões são **ESTUDAR**, algo que faço continuamente, e **ENSINAR**, atividade que acabo perdendo noção do tempo em qualquer situação. Em função disso, resolvi me dedicar a divulgar essas minhas paixões, com o objetivo de disponibilizar os projetos e passar uma visão de etapa a etapa do aprendizado de Data Science. 
 
-Por favor, entrem em contato direto comigo pelos canais abaixo para toda troca de informação.
+Estou iniciando esse projeto, onde todo estudo que fizer irei compartilhar por aqui e gostaria muito de sugestões, reclamações, dúvidas etc. Por favor, entrem em contato direto comigo pelos canais abaixo para toda troca de informação.
 
 
 ## Canais de contato
